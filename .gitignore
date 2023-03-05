@@ -1,2 +1,5 @@
 .vscode/
 __pycache__/
+data/data_agg.csv
+data/data_w_users.csv
+
